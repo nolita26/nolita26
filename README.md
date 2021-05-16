@@ -2,12 +2,12 @@ Hello everyone!
 
 I am Nolita Rego, a final year CS student from Fr.CRCE, Mumbai.
 
-# I'm currently a Full Stack Web Developer and Mobile Application Developer.
-# I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing and other areas of  interest.
-# Presently, I'm exploring other domains, AI being one of my favourite learning domain.
-# I am looking for help with integration of frontend with backend model.
+* I'm currently a Full Stack Web Developer and Mobile Application Developer.
+* I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing and other areas of  interest.
+* Presently, I'm exploring other domains, AI being one of my favourite learning domain.
+* I am looking for help with integration of frontend with backend model.
 
-# How to reach me: 
+* How to reach me: nolitarego@gmail.com
 
 [1]: https://www.linkedin.com/in/nolitarego/
 [2]: https://twitter.com/nolitarego
