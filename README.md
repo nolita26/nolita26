@@ -1,6 +1,6 @@
 Hello everyone!
 
-I am Nolita Rego, final year CS student from Fr.CRCE, Mumbai.
+I am Nolita Rego, Computer Engineer from Fr.CRCE, Mumbai.
 
 * I'm currently a Full Stack Web Developer and Mobile Application Developer.
 * I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing and other areas of  interest.
