@@ -1,6 +1,6 @@
 Hello everyone!
 
-I am Nolita Rego, Computer Engineer from Fr.CRCE, Mumbai.
+I am Nolita Rego, currently a graduate student (MS in CS) at Santa Clara University, CA.
 
 * I'm currently a Full Stack Web Developer and Mobile Application Developer.
 * I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing and other areas of  interest.
