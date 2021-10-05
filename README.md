@@ -2,10 +2,11 @@ Hello everyone!
 
 I am Nolita Rego, currently a graduate student (MS in CS) at Santa Clara University, CA.
 
-* I'm currently a Full Stack Web Developer and Mobile Application Developer.
-* I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing and other areas of  interest.
+* I'm a Full Stack Web Developer and Mobile Application Developer with a blend of managerial skills.
+* I've worked on various projected oriented to Artificial Intelligence(AI), Image Processing , Natural Language Processing and other areas of  interest.
 * Presently, I'm exploring other domains, AI being one of my favourite learning domain.
 * I am looking for help with integration of frontend with backend model.
+* I'm currently seeking internship opportunities for Summer'22 (Preferably in the US as I'm pursuing my MS here)
 
 * How to reach me: nolitarego@gmail.com
 
