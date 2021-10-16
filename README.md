@@ -8,7 +8,7 @@ I am Nolita Rego, currently a graduate student (MS in CS) at Santa Clara Univers
 * I am looking for help with integration of frontend with backend model.
 * I'm currently seeking internship opportunities for Summer'22 (Preferably in the US as I'm pursuing my MS here)
 
-* How to reach me: nolitarego@gmail.com
+* How to reach me: nolitarego@gmail.com | nrego@scu.edu
 
 [1]: https://www.linkedin.com/in/nolitarego/
 [2]: https://twitter.com/nolitarego
