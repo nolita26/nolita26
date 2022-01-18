@@ -6,7 +6,7 @@ I am Nolita Rego, currently a graduate student (MS in CS) at Santa Clara Univers
 * I've worked on various projects oriented to Artificial Intelligence(AI), Image Processing, Natural Language Processing and other areas of  interest.
 * Presently, I'm exploring other domains, Software Development and AI being one of my favourite learning domains.
 * I am looking for help with integration of frontend with backend model.
-* I'm currently seeking internship opportunities for Summer'22 (Preferably in the US as I'm pursuing my MS here)
+* I'm currently seeking internship opportunities for Summer'22 (Preferably in the US)
 
 * How to reach me: nolitarego@gmail.com | nrego@scu.edu
 
