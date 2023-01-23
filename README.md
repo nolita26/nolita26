@@ -20,4 +20,4 @@ I'm a Computer Science and Engineering Graduate Student at Santa Clara Universit
  [![twitter](https://img.icons8.com/fluent/48/000000/twitter.png)][2]
  [![instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)][3]
  [![facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)][4]
- [![youtube](https://img.icons8.com/fluent/48/000000/youtube-new.png)][5]
+ [![youtube](https://img.icons8.com/fluent/48/000000/youtube.png)][5]
