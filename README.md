@@ -1,14 +1,15 @@
-Hello Everyone!
+Hello! I'm Nolita Rego 👩🏻
 
-I'm a Computer Science and Engineering Graduate Student at Santa Clara University, California.
+Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
 
-* I'm a Software Engineer with a blend of managerial skills.
-* I hold proficient knowledge in Full-Stack Development, Mobile Application Development, and UI/UX Designing. 
-* I have also worked on various other domains oriented to Artificial Intelligence, Image Processing, Natural Language Processing, and Data Visualization and Analytics.
-* Presently, I'm exploring other domains, blending Software Development and AI being my favourite learning domains.
+* MS in Computer Science and Engineering at Santa Clara University, California.
+* Proficient in Software Development, specifically in the field of Full-Stack Development, Mobile App Development, and UI/UX Designing.
+* Worked on domains oriented to Artificial Intelligence, Image Processing, Natural Language Processing, Data Visualization and Analytics.
+* Presently exploring other domains, blending Software Development and AI being my favourite learning domains.
+* Actively ooking for Full Time opportunities in Software Engineering/Mobile Engineering/Applications Development.
 
-* How to reach me: nolitarego@gmail.com | nrego@scu.edu
-* Portfolio: https://nolita26.github.io/
+* 📩: nolitarego@gmail.com | nrego@scu.edu
+* 👩🏻‍💻: https://nolita26.github.io/
 
 [1]: https://www.linkedin.com/in/nolitarego/
 [2]: https://twitter.com/nolitarego
