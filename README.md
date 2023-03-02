@@ -6,7 +6,7 @@ Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strateg
 * Proficient in Software Development, specifically in the field of Full-Stack Development, Mobile App Development, and UI/UX Designing.
 * Worked on domains oriented to Artificial Intelligence, Image Processing, Natural Language Processing, Data Visualization and Analytics.
 * Presently exploring other domains, blending Software Development and AI being my favourite learning domains.
-* Actively ooking for Full Time opportunities in Software Engineering/Mobile Engineering/Applications Development.
+* Actively looking for Full Time opportunities in Software Engineering/Mobile Engineering/Applications Development.
 
 * 📩: nolitarego@gmail.com | nrego@scu.edu
 * 👩🏻‍💻: https://nolita26.github.io/
