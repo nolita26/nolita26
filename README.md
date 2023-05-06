@@ -8,7 +8,7 @@ Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strateg
 * Presently exploring other domains, blending Software Development and AI being my favourite learning domains.
 * Actively looking for Full Time opportunities in SDE/SWE/Mobile Engineer/Application Development.
 
-* 📩: nolitarego@gmail.com | nrego@scu.edu
+* 📩: nolitarego@gmail.com
 * 👩🏻‍💻: https://nolita26.github.io/
 
 [1]: https://www.linkedin.com/in/nolitarego/
