@@ -4,7 +4,7 @@ Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strateg
 
 🎓 Completed Degrees: Master of Science - Computer Science and Engineering, Bachelor of Engineering - Computer Engineering.
 📲 Proficient in Software Development, specifically in the field of Full Stack Development, and Mobile Application Development.    
-📈 Worked on domains oriented to Artificial Intelligence (AI), Image Processing, Natural Language Processing (NLP), Data Visualization, and Analytics.
+📈 Worked on domains oriented to Artificial Intelligence, Image Processing, Natural Language Processing, Data Visualization, and Analytics.
 💡 Presently exploring other domains, blending Software Development and AI being my favorite learning domains.
 
 📩: nolitarego@gmail.com
