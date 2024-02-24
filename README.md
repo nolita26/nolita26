@@ -21,7 +21,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" height="30"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/fluency/48/000000/sql-logo.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
    </td>
   </tr>
