@@ -1,6 +1,6 @@
 Hello! I'm Nolita Rego 👩🏻
 
-Frontend Developer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
+Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
 
 - 🎓 Completed Degrees: Master of Science - Computer Science and Engineering, Bachelor of Engineering - Computer Engineering.
 - 📲 Proficient in Software Development, specifically Frontend Development, UI/UX Design, Full Stack Development, and Mobile Application Development. 
