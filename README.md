@@ -1,9 +1,9 @@
 Hello! I'm Nolita Rego 👩🏻
 
-Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
+Frontend Developer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
 
 - 🎓 Completed Degrees: Master of Science - Computer Science and Engineering, Bachelor of Engineering - Computer Engineering.
-- 📲 Proficient in Software Development, specifically in the field of Full Stack Development, and Mobile Application Development.    
+- 📲 Proficient in Software Development, specifically Frontend Development, UI/UX Design, Full Stack Development, and Mobile Application Development. 
 - 📈 Worked on domains oriented to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
 - 💡 Presently exploring other domains, blending Software Development and AI being my favorite learning domains.
 
@@ -19,7 +19,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/react.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35" height="35"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
