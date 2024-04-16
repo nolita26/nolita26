@@ -2,13 +2,11 @@ Hello! I'm Nolita Rego 👩🏻
 
 Software Engineer 💻 | Product Management ⚙️ | Technical Sales and Strategy 📝
 
-- 🎓 Completed Degrees: Master of Science - Computer Science and Engineering, Bachelor of Engineering - Computer Engineering.
 - 📲 Proficient in Software Development, specifically Frontend Development, UI/UX Design, Full Stack Development, and Mobile Application Development. 
 - 📈 Worked on domains oriented to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
 - 💡 Presently exploring other domains, blending Software Development and AI being my favorite learning domains.
 
 📩: nolitarego@gmail.com
-👩🏻‍💻: https://nolita26.github.io/
 
 Technology Stack:
 <table>
