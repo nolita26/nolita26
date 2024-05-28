@@ -2,7 +2,7 @@ Hello! I'm Nolita Rego 👩🏻
 
 Full Stack Software Engineer 💻 | AI ⚙️ | Product Management 📝
 
-- 📲 Proficient in Software Development, specifically Frontend Development, UI/UX Design, Full Stack Development, and Mobile Application Development. 
+- 📲 Proficient in Software Development, specifically Frontend Development, UI/UX Design, Full Stack Development, Mobile Application Development, and Artificial Intelligence. 
 - 📈 Worked on domains oriented to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
 - 💡 Presently exploring other domains, blending Software Development and AI being my favorite learning domains.
 
