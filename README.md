@@ -22,6 +22,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35" height="35"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/docker.png" width="35" height="35"/> 
    </td>
   </tr>
  </body>
