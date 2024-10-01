@@ -2,7 +2,7 @@ Hello! I'm Nolita Rego 👩🏻
 
 Full Stack Software Engineer | AI
 
--  💡 I hold a Master of Science (MS) degree in Computer Science with extensive experience in Full Stack Development with expertise in Cloud Technologies, and Artificial Intelligence.
+-  💡 I hold a Master of Science (MS) degree in Computer Science with extensive experience in Full Stack Development, with expertise in Cloud Technologies, and Artificial Intelligence.
 -  🚀 I am passionate about designing, developing, and delivering high-quality solutions while constantly learning and applying modern tech stacks.
 -  📈 I seek opportunities to leverage my skills professionally in a dynamic, fast-paced environment. 
 
