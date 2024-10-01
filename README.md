@@ -24,7 +24,6 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/sql.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/docker.png" width="35" height="35"/> 
-    <img src="https://img.icons8.com/color/48/000000/devops.png" width="35" height="35"/> 
    </td>
   </tr>
  </body>
