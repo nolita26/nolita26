@@ -21,7 +21,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/fluency/48/000000/sql.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/docker.png" width="35" height="35"/> 
    </td>
