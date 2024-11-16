@@ -7,7 +7,7 @@ Full Stack Software Engineer | AI
 -  📈 I seek opportunities to leverage my skills professionally in a dynamic, fast-paced environment. 
 
 Email 📩: nolitarego@gmail.com
-Portfolio 👩🏻‍💻: https://nolita26.github.io/
+Portfolio 👩🏻‍💻: https://nolitarego.netlify.app/
 
 Technology Stack:
 <table>
